@@ -9,7 +9,7 @@ export interface TableRowProps {
   department: string;
   location: string;
   courseStartedDate: string;
-  openedLessonsCount: number;
+  openedLessonsCount: string;
   completedDate: string;
   completedLessonsCount: number;
   totalLessonsCount: number;
